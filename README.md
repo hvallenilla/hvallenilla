@@ -1,8 +1,8 @@
 # Hi, I'm Henry 👋 I'm Backend Engineer
 
-![title](https://e-valuados.com/wp-content/uploads/2020/03/Logo-Evaluados.png)
+![title]
 
-- 🔭 I’m currently working on [Evaluados](https://www.e-valuados.com) as **CTO**
+- 🔭 I’m currently **Nomadic Developer**
 - 🌱 I’m currently learning React Native, Google Cloud Platform.
 - :computer: Working with Php, JavaScript, React.js, Node.js, Firebase.
 - 📫 How to reach me [Instagram](https://www.instagram.com/hvallenilla/) and [Twitter](https://www.twitter.com/hvallenilla/)
